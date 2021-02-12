@@ -3,7 +3,7 @@ config["am"] = 600
 config["pm"] = 2100
 
 config["flip_horizontal"] = False
-config["flip_vertical"] = True
+config["flip_vertical"] = False
 config["metering_mode"] = "matrix"
 
 config["base_path"] = "/var/image"
